@@ -7,7 +7,7 @@ function Spinner() {
             style={
                 {
                     width: '100px',
-                    margin: 'auto',
+                    margin: '100px auto',
                     display: 'block'
                 }
             }/>

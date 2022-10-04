@@ -11,6 +11,7 @@
 # production
 /build
 npm
+db.json
 
 # misc
 .DS_Store
